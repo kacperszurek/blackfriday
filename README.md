@@ -24,6 +24,8 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [Pluralsight](https://www.pluralsight.com/pricing/skills?type=individual) - 50% na roczne plany
 * [Oh My H@ck 2022](https://eventory.cc/event/oh-my-hack-2022/tickets) - z kodem `AdamZaprasza` - 21% taniej
 * [Cloudflare](https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/) - promocja na klucze Yubikey - wymaga konta i aktywnej strefy - **możliwy długi czas wysyłki**
+* [INE](https://linktr.ee/inetraining) - 40% na eLearnSecurity Certifications, zniżki na INE Premium i Pentester Academy
+
 # Inne listy
 
 * https://github.com/0x90n/InfoSec-Black-Friday
