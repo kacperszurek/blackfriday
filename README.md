@@ -26,6 +26,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [Cloudflare](https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/) - promocja na klucze Yubikey - wymaga konta i aktywnej strefy - **możliwy długi czas wysyłki**
 * [INE](https://linktr.ee/inetraining) - 40% na eLearnSecurity Certifications, zniżki na INE Premium i Pentester Academy
 * [TCM Security](https://tcm-sec.com/coupon/) - 50% na wszystkie kursy
+* [LastPass](https://www.lastpass.com/pricing) - 25% na pakiet Premium i Family
 
 # Inne listy
 
