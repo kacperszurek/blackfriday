@@ -27,6 +27,11 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [INE](https://linktr.ee/inetraining) - 40% na eLearnSecurity Certifications, zniżki na INE Premium i Pentester Academy
 * [TCM Security](https://tcm-sec.com/coupon/) - 50% na wszystkie kursy
 * [LastPass](https://www.lastpass.com/pricing) - 25% na pakiet Premium i Family
+* [Parallels Desktop](https://www.parallels.com/eu/products/desktop/buy/) - 25% na nowe licencje i upgrade
+* [Komputeronik](https://www.komputronik.pl/product/672256/security-key-nfc-by-yubico.html) - przy zakupie 2 takich samych kluczy YubiKey, drugi - 50% taniej
+* [Zabezpieczania serwerów Linux](https://asdevops.pl/sec/) - 59% na kurs
+* [Newsletter BBRE Premium](https://twitter.com/gregxsunday/status/1594982104810618880) - z kodem `BLACKFRIDAY` 20$ taniej
+* [Microsoft Press](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-2-save-55-on-books-and-ebooks-142354) - książki 40% taniej
 
 # Inne listy
 
