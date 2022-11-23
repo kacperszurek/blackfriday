@@ -32,6 +32,8 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [Zabezpieczania serwerów Linux](https://asdevops.pl/sec/) - 59% na kurs
 * [Newsletter BBRE Premium](https://twitter.com/gregxsunday/status/1594982104810618880) - z kodem `BLACKFRIDAY` 20$ taniej
 * [Microsoft Press](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-2-save-55-on-books-and-ebooks-142354) - książki 40% taniej
+* [Cqure Academy](https://news.cqureacademy.com/black-friday-22) - 29% na Advanced Windows Security, 39% na Cybersecurity Master
+* [Cybrary](https://www.cybrary.it/upgrade/checkout/) - z kodem `BlackFriday20` 20% na roczny abonament
 
 # Inne listy
 
