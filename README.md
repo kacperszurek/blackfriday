@@ -35,6 +35,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [Cqure Academy](https://news.cqureacademy.com/black-friday-22) - 29% na Advanced Windows Security, 39% na Cybersecurity Master
 * [Cybrary](https://www.cybrary.it/upgrade/checkout/) - z kodem `BlackFriday20` 20% na roczny abonament
 * [010 Editor](https://www.sweetscape.com/store/) - 25% taniej
+* [No Starch Press](https://nostarch.com/) - z kodem `HOLIDEALS` 35% na książki
  
 # Inne listy
 
