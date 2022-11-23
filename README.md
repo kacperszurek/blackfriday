@@ -34,7 +34,8 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [Microsoft Press](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-2-save-55-on-books-and-ebooks-142354) - książki 40% taniej
 * [Cqure Academy](https://news.cqureacademy.com/black-friday-22) - 29% na Advanced Windows Security, 39% na Cybersecurity Master
 * [Cybrary](https://www.cybrary.it/upgrade/checkout/) - z kodem `BlackFriday20` 20% na roczny abonament
-
+* [010 Editor](https://www.sweetscape.com/store/) - 25% taniej
+ 
 # Inne listy
 
 * https://github.com/0x90n/InfoSec-Black-Friday
