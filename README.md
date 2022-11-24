@@ -37,6 +37,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [010 Editor](https://www.sweetscape.com/store/) - 25% taniej
 * [No Starch Press](https://nostarch.com/) - z kodem `HOLIDEALS` 35% na książki
 * [KNOXSS](https://knoxss.me/?page_id=1974) - 20% na 3 miesiące, 40% na 6 i 50% na 12
+* [ISACA](https://www.isaca.org/campaigns/cisa-cism-exam-discount) - 10% na egzaminy CISA/CISM
 
 # Inne listy
 
