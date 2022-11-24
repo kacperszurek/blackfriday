@@ -16,7 +16,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [Proton Mail](https://proton.me/mail/black-friday) - 33% na Mail Plus, 40% na Proton Unlimited
 * [Grayhat Warfare](https://grayhatwarfare.com/packages) - 53% na Premium
 * [Sekurak](https://sekurak.pl/black-week-z-sekurakiem-kilka-naszych-szkolen-z-rabatem-40/) - szkolenia 40% taniej
-* [Szkoła Security](https://szkolasecurity.pl/black/) - 66% na pakiety,  20% na kursy
+* [Szkoła Security](https://szkolasecurity.pl/black/) - 66% na pakiety, z kodem `BlackSec25` 25% na kursy
 * [Cloud Academy](https://cloudacademy.com/promos/black-friday-early-bird-2022/) - 35% taniej
 * [Cloud Guru](https://acloudguru.com/content/blackfriday2022) - 50% na pakiet Personal Basic i Personal Plus
 * [HAK5](https://shop.hak5.org/pages/custom-red-team-field-kit) - 15% na paczki produktów
