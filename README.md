@@ -36,7 +36,8 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [Cybrary](https://www.cybrary.it/upgrade/checkout/) - z kodem `BlackFriday20` 20% na roczny abonament
 * [010 Editor](https://www.sweetscape.com/store/) - 25% taniej
 * [No Starch Press](https://nostarch.com/) - z kodem `HOLIDEALS` 35% na książki
- 
+* [KNOXSS](https://knoxss.me/?page_id=1974) - 20% na 3 miesiące, 40% na 6 i 50% na 12
+
 # Inne listy
 
 * https://github.com/0x90n/InfoSec-Black-Friday
