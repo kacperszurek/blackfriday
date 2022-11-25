@@ -48,3 +48,4 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 
 * https://github.com/0x90n/InfoSec-Black-Friday
 * https://training.dfirdiva.com/current-discounts
+* https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday
