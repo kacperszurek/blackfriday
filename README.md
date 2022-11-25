@@ -39,6 +39,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [KNOXSS](https://knoxss.me/?page_id=1974) - 20% na 3 miesiące, 40% na 6 i 50% na 12
 * [ISACA](https://www.isaca.org/campaigns/cisa-cism-exam-discount) - 10% na egzaminy CISA/CISM
 * [ISC](https://www.isc2.org/1mcc) - voucher na egzamin Certified in Cybersecurity za darmo za wypłenienie formularza
+* [VMware](https://store-us.vmware.com/) - 30% na nowe licencje Workstation/Fusion
 
 # Inne listy
 
