@@ -40,6 +40,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [ISACA](https://www.isaca.org/campaigns/cisa-cism-exam-discount) - 10% na egzaminy CISA/CISM
 * [ISC](https://www.isc2.org/1mcc) - voucher na egzamin Certified in Cybersecurity za darmo za wypłenienie formularza
 * [VMware](https://store-us.vmware.com/) - 30% na nowe licencje Workstation/Fusion
+* [SAPSAN](https://sapsan-sklep.pl/collections/wszystkie-produkty?filter.v.availability=1) - różne przeceny na różne produkty
 
 # Inne listy
 
