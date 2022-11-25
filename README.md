@@ -41,6 +41,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [ISC](https://www.isc2.org/1mcc) - voucher na egzamin Certified in Cybersecurity za darmo za wypłenienie formularza
 * [VMware](https://store-us.vmware.com/) - 30% na nowe licencje Workstation/Fusion
 * [SAPSAN](https://sapsan-sklep.pl/collections/wszystkie-produkty?filter.v.availability=1) - różne przeceny na różne produkty
+* [Zero Point Security](https://training.zeropointsecurity.co.uk/collections) - kursy z kodem `BLACKFRI22` 20% taniej
 
 # Inne listy
 
