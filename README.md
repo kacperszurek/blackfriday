@@ -43,6 +43,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [SAPSAN](https://sapsan-sklep.pl/collections/wszystkie-produkty?filter.v.availability=1) - różne przeceny na różne produkty
 * [Zero Point Security](https://training.zeropointsecurity.co.uk/collections) - kursy z kodem `BLACKFRI22` 20% taniej
 * [PentesterLab](https://pentesterlab.com/pro) - 34% na 3 miesięczny pakiet Student (wymaga maila w domenie EDU)
+* [TryHackMe](https://tryhackme.com/) - z kodem `AOC22` 20% na roczny pakiet
 
 # Inne listy
 
