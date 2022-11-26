@@ -44,6 +44,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [Zero Point Security](https://training.zeropointsecurity.co.uk/collections) - kursy z kodem `BLACKFRI22` 20% taniej
 * [PentesterLab](https://pentesterlab.com/pro) - 34% na 3 miesięczny pakiet Student (wymaga maila w domenie EDU)
 * [TryHackMe](https://tryhackme.com/) - z kodem `AOC22` 20% na roczny pakiet
+* [Unsupervised Learning](https://danielmiessler.com/subscribe/) - z kodem `blackfriday` newsletter 25% taniej
 
 # Inne listy
 
