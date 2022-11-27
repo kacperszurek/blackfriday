@@ -45,6 +45,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [PentesterLab](https://pentesterlab.com/pro) - 34% na 3 miesięczny pakiet Student (wymaga maila w domenie EDU)
 * [TryHackMe](https://tryhackme.com/) - z kodem `AOC22` 20% na roczny pakiet
 * [Unsupervised Learning](https://danielmiessler.com/subscribe/) - z kodem `blackfriday` newsletter 25% taniej
+* [Sektor7](https://institute.sektor7.net/) - z kodem `BEFICOM-22` szkolenia 25% taniej
 
 # Inne listy
 
