@@ -46,6 +46,7 @@ Pomogłem? Rozważ [dołączenie do newslettera](https://newsletter.szurek.tv/).
 * [TryHackMe](https://tryhackme.com/) - z kodem `AOC22` 20% na roczny pakiet
 * [Unsupervised Learning](https://danielmiessler.com/subscribe/) - z kodem `blackfriday` newsletter 25% taniej
 * [Sektor7](https://institute.sektor7.net/) - z kodem `BEFICOM-22` szkolenia 25% taniej
+* [The Linux Foundation](https://training.linuxfoundation.org/cyber-2022/#bundles/) - z kodem CYBER22BUN Kubernetes Security Essentials Course + Certified Kubernetes Security Specialist (CKS) Exam Bundle (oraz sporo innych)
 
 # Inne listy
 
