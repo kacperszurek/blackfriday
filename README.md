@@ -10,7 +10,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 
 # Promocje
 
-[autopromocja] Zobacz, jak łatwo możesz znaleźć swoją pierwszą podatność. Sprawdź mój kurs [Bezpieczny Programista](https://sklep.szurek.tv/bezpieczny-programista).
+[autopromocja] Jak łatwo możesz znaleźć swoją pierwszą podatność. Sprawdź mój kurs [Bezpieczny Programista](https://sklep.szurek.tv/bezpieczny-programista).
 
 * [TryHackmeMe](https://tryhackme.com/) - specjalne "maszyny" do nauki - z kodem `AOC2023` roczny plan premium 20% taniej
 * [Kindle](https://www.amazon.pl/deal/0c59ab87?showVariations=true) - czytnik e-booków - 9%-18% taniej
