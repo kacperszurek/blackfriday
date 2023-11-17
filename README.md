@@ -23,7 +23,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Cloud Academy](https://cloudacademy.com/early-bird-black-friday-2023/) - szkolenia powiązane z chmurą - roczne plany dla nowych użytkowników 40% taniej
 * [Oh My H@ck](https://omhconf.pl/) - konferencja organizowana przez Zaufaną Trzecią Stronę - z kodem `OMH-20` bilety normalne 20% taniej
 * [Parallels Desktop](https://www.parallels.com/eu/) - maszyny wirtualne na Mac - z kodem `APPLEINSIDER25` 25% taniej
-
+* [Coursera](https://www.coursera.org/courseraplus/special/onedollar-nov-2023) - różne kursy - pierwszy miesiąc $1, potem $59/miesiąc
 
 # Inne listy
 
