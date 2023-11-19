@@ -3,15 +3,14 @@ Zbiór promocji na black friday/black week/cyber monday o tematyce bezpieczeńst
 
 Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 
-**Bez ofert usług VPN**. Nie pojawią się tutaj wszystkie promocje a tylko te, które uważam za godne polecenia.
+**Bez ofert usług VPN**.
 
 # Chcesz coś dodać?
 Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 
 # Promocje
 
-[autopromocja] Jak łatwo możesz znaleźć swoją pierwszą podatność. Sprawdź mój kurs [Bezpieczny Programista](https://sklep.szurek.tv/bezpieczny-programista).
-
+* [Bezpieczny Programista](https://sklep.szurek.tv/bezpieczny-programista) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących [autopromocja]
 * [TryHackmeMe](https://tryhackme.com/) - specjalne "maszyny" do nauki - z kodem `AOC2023` roczny plan premium 20% taniej
 * [Kindle](https://www.amazon.pl/deal/0c59ab87?showVariations=true) - czytnik e-booków - 9%-18% taniej
 * [LetsDefend](https://letsdefend.io/#pricing) - kursy powiązane z tematami Blue Team - z kodem `BLCKFRDY` 50% taniej
@@ -24,6 +23,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Oh My H@ck](https://omhconf.pl/) - konferencja organizowana przez Zaufaną Trzecią Stronę - z kodem `OMH-20` bilety normalne 20% taniej
 * [Parallels Desktop](https://www.parallels.com/eu/) - maszyny wirtualne na Mac - z kodem `APPLEINSIDER25` 25% taniej
 * [Coursera](https://www.coursera.org/courseraplus/special/onedollar-nov-2023) - różne kursy - pierwszy miesiąc $1, potem $59/miesiąc
+* [YubiKey](https://www.yubico.com/gb/store/2023/cyber-week/) - [klucz bezpieczeństwa](https://blog.szurek.tv/post/yubikey/) - drugi klucz 50% taniej
 
 # Inne listy
 
