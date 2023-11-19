@@ -20,7 +20,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus 33% taniej
 * [Grayhatwarfare](https://grayhatwarfare.com/packages) - wyszukiwarka publicznych kubełków S3 - €55 zamiast €75 na 3 miesiące
 * [Cloud Academy](https://cloudacademy.com/early-bird-black-friday-2023/) - szkolenia powiązane z chmurą - roczne plany dla nowych użytkowników 40% taniej
-* [Oh My H@ck](https://omhconf.pl/) - konferencja organizowana przez Zaufaną Trzecią Stronę - z kodem `OMH-20` bilety normalne 20% taniej
+* [Oh My H@ck](https://omhconf.pl/) - konferencja organizowana przez Zaufaną Trzecią Stronę - z kodem `admin123` bilety normalne 23% taniej
 * [Parallels Desktop](https://www.parallels.com/eu/) - maszyny wirtualne na Mac - z kodem `APPLEINSIDER25` 25% taniej
 * [Coursera](https://www.coursera.org/courseraplus/special/onedollar-nov-2023) - różne kursy - pierwszy miesiąc $1, potem $59/miesiąc
 * [YubiKey](https://www.yubico.com/gb/store/2023/cyber-week/) - [klucz bezpieczeństwa](https://blog.szurek.tv/post/yubikey/) - drugi klucz 50% taniej
