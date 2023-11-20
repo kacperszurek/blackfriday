@@ -23,6 +23,10 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Oh My H@ck](https://omhconf.pl/) - konferencja organizowana przez Zaufaną Trzecią Stronę - z kodem `admin123` bilety normalne 23% taniej
 * [Coursera](https://www.coursera.org/courseraplus/special/onedollar-nov-2023) - różne kursy - pierwszy miesiąc $1, potem $59/miesiąc
 * [YubiKey](https://www.yubico.com/gb/store/2023/cyber-week/) - [klucz bezpieczeństwa](https://blog.szurek.tv/post/yubikey/) - drugi klucz 50% taniej
+  * [x-kom](https://promocje.x-kom.pl/yubico) - rabaty na zestawy 2 kluczy z kodem `yubico-bf`
+* [TCM Security](https://academy.tcm-sec.com/courses/) - różne kursy od The Cyber Mentor - z kodem `GobbleGobble23` 50% taniej
+* [Sektor7 Institute](https://institute.sektor7.net/?coupon=BW23) - kursy Red Team - z kodem `BW23` taniej 20%
+* [Mikrus](https://mikr.us/) - serwery VPS dla pasjonatów od 35 PLN/rok
 
 # Inne listy
 
