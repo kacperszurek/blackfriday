@@ -27,6 +27,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [TCM Security](https://academy.tcm-sec.com/courses/) - różne kursy od The Cyber Mentor - z kodem `GobbleGobble23` 50% taniej
 * [Sektor7 Institute](https://institute.sektor7.net/?coupon=BW23) - kursy Red Team - z kodem `BW23` taniej 20%
 * [Mikrus](https://mikr.us/) - serwery VPS dla pasjonatów od 35 PLN/rok
+* [Alphasec](https://alphasec.pl/ironps-black) - Szkolenie PowerShell - żelazne podstawy na platformie Alphasec Academy 25% taniej
 
 # Inne listy
 
