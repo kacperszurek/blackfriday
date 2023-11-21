@@ -30,6 +30,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Alphasec](https://alphasec.pl/ironps-black) - Szkolenie PowerShell - żelazne podstawy na platformie Alphasec Academy 25% taniej
 * [Tib3rius](https://courses.tib3rius.com/p/privilege-escalation-for-oscp-and-beyond-bundle?coupon_code=BLACKFRIDAY2023) - kursy na temat Privilege Escalation - z kodem `BLACKFRIDAY2023` 75% taniej
 * [INE eLearnSecurity](https://checkout.ine.com/black-friday-2023) - certyfikaty eJPT, eCPPT, eCTHP - różne promocje na rożne pakiety
+* [Ebookpoint](https://ebookpoint.pl/promocja-xzay/23/informatyka) - różne ebooki - 2 za 1
 
 # Inne listy
 
