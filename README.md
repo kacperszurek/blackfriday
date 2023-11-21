@@ -31,6 +31,8 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Tib3rius](https://courses.tib3rius.com/p/privilege-escalation-for-oscp-and-beyond-bundle?coupon_code=BLACKFRIDAY2023) - kursy na temat Privilege Escalation - z kodem `BLACKFRIDAY2023` 75% taniej
 * [INE eLearnSecurity](https://checkout.ine.com/black-friday-2023) - certyfikaty eJPT, eCPPT, eCTHP - różne promocje na rożne pakiety
 * [Ebookpoint](https://ebookpoint.pl/promocja-xzay/23/informatyka) - różne ebooki - 2 za 1
+* [Sapsan](https://sapsan-sklep.pl/discount/BLACKFRIDAY?redirect=%2Fcollections%2Fwszystkie-produkty) - sklep ze sprzętem dla pentesterów - z kodem `BLACKFRIDAY` 10% taniej
+* [BBRE Premium](https://members.bugbountyexplained.com/) - płatny newsletter z wyjaśnieniami błędów z bug bounty - z kodem `BLACKFRIDAY` $20 taniej
 
 # Inne listy
 
