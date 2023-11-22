@@ -33,6 +33,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Ebookpoint](https://ebookpoint.pl/promocja-xzay/23/informatyka) - różne ebooki - 2 za 1
 * [Sapsan](https://sapsan-sklep.pl/discount/BLACKFRIDAY?redirect=%2Fcollections%2Fwszystkie-produkty) - sklep ze sprzętem dla pentesterów - z kodem `BLACKFRIDAY` 10% taniej
 * [BBRE Premium](https://members.bugbountyexplained.com/) - płatny newsletter z wyjaśnieniami błędów z bug bounty - z kodem `BLACKFRIDAY` $20 taniej
+* [IDA Home](https://hex-rays.com/blog/black-friday-deals-2023/) - popularne narzędzie do inżynierii wstecznej - 30% taniej
 
 # Inne listy
 
