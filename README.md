@@ -35,6 +35,8 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [BBRE Premium](https://members.bugbountyexplained.com/) - płatny newsletter z wyjaśnieniami błędów z bug bounty - z kodem `BLACKFRIDAY` $20 taniej
 * [IDA Home](https://hex-rays.com/blog/black-friday-deals-2023/) - popularne narzędzie do inżynierii wstecznej - 30% taniej
 * [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) - program do tworzenia maszyn wirtualnych -  30% taniej
+* [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL - $50 zamiast $297
+* [ANY.RUN](https://app.any.run/plans/) - sandbox do dynamicznej analizy złośliwego oprogramowania - 2 licencje w cenie 1
 
 # Inne listy
 
