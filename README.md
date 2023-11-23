@@ -43,6 +43,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Pluralsight](https://www.pluralsight.com/pricing/skills?type=individual) - platforma z kursami - subskrypcja 50% taniej
 * [PyCharm](https://lp.jetbrains.com/support-python/) - IDE dla programistów Pythona - 30% taniej
 * [Parallels](https://www.parallels.com/eu/) - program do tworzenia maszyn wirtualnych na MacOS - 25% taniej
+* [Mastering Windows Internals](https://gtworek.com/mastering-windows-internals) - kurs i społeczność dookoła tematu Windows Internals - $499 zamiast $799
 
 # Inne listy
 
