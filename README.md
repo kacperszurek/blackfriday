@@ -34,7 +34,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Sapsan](https://sapsan-sklep.pl/discount/BLACKFRIDAY?redirect=%2Fcollections%2Fwszystkie-produkty) - sklep ze sprzętem dla pentesterów - z kodem `BLACKFRIDAY` 10% taniej
 * [BBRE Premium](https://members.bugbountyexplained.com/) - płatny newsletter z wyjaśnieniami błędów z bug bounty - z kodem `BLACKFRIDAY` $20 taniej
 * [IDA Home](https://hex-rays.com/blog/black-friday-deals-2023/) - popularne narzędzie do inżynierii wstecznej - 30% taniej
-* [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) - program do tworzenia maszyn wirtualnych -  30% taniej
+* [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) - program do tworzenia maszyn wirtualnych  -  30% taniej
 * [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL - z kodem `BF2023` $50 zamiast $297
 * [ANY.RUN](https://app.any.run/plans/) - sandbox do dynamicznej analizy złośliwego oprogramowania - 2 licencje w cenie 1
 * [No Starch Press](https://nostarch.com/) - różne ebooki - z kodem `DEALS4DAYS` 35% taniej
@@ -42,6 +42,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Hak5](https://hak5.org/) - narzędzia dla red teamów - różne promocje - uwaga na cło, wysyłka z USA
 * [Pluralsight](https://www.pluralsight.com/pricing/skills?type=individual) - platforma z kursami - subskrypcja 50% taniej
 * [PyCharm](https://lp.jetbrains.com/support-python/) - IDE dla programistów Pythona - 30% taniej
+* [Parallels](https://www.parallels.com/eu/) - program do tworzenia maszyn wirtualnych na MacOS - 25% taniej
 
 # Inne listy
 
