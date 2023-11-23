@@ -41,7 +41,8 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Humble Tech Bundle Cybersecurity](https://www.humblebundle.com/books/cybersecurity-2023-wiley-books) - zestaw różnych ebooków - €16.86 lub część za €1
 * [Hak5](https://hak5.org/) - narzędzia dla red teamów - różne promocje - uwaga na cło, wysyłka z USA
 * [Pluralsight](https://www.pluralsight.com/pricing/skills?type=individual) - platforma z kursami - subskrypcja 50% taniej
-  
+* [PyCharm](https://lp.jetbrains.com/support-python/) - IDE dla programistów Pythona - 30% taniej
+
 # Inne listy
 
 * https://github.com/rafalrud/blackfriday2023/ _(sieci i automatyzacja)_
