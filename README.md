@@ -47,6 +47,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [O’Reilly](https://learning.oreilly.com/signup/?code=CYBERAB23) - subskrypcja na różne książki i kursy - z kodem `CYBERAB23` roczny abonament 40% taniej
 * [Wizard zines](https://wizardzines.com/) - komiksy przedstawiające techniczne zagadnienia - z kodem `WIZARDPDF` 50% taniej
 * [010 Editor](https://www.sweetscape.com/010editor/) - HEX edytor - 15% taniej
+* [KNOXSS](https://knoxss.me/?page_id=1974) - narzędzie do automatycznego poszukiwania błędów typu XSS - 50% taniej
 
 # Inne listy
 
