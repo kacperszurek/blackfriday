@@ -44,6 +44,8 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [PyCharm](https://lp.jetbrains.com/support-python/) - IDE dla programistów Pythona - 30% taniej
 * [Parallels](https://www.parallels.com/eu/) - program do tworzenia maszyn wirtualnych na MacOS - 25% taniej
 * [Mastering Windows Internals](https://gtworek.com/mastering-windows-internals) - kurs i społeczność dookoła tematu Windows Internals - $499 zamiast $799
+* [O’Reilly](https://learning.oreilly.com/signup/?code=CYBERAB23) - subskrypcja na różne książki i kursy - z kodem `CYBERAB23` roczny abonament 40% taniej
+* [Wizard zines](https://wizardzines.com/) - komiksy przedstawiające techniczne zagadnienia - z kodem `WIZARDPDF` 50% taniej
 
 # Inne listy
 
