@@ -47,6 +47,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [O’Reilly](https://learning.oreilly.com/signup/?code=CYBERAB23) - subskrypcja na różne książki i kursy - z kodem `CYBERAB23` roczny abonament 40% taniej
 * [Wizard zines](https://wizardzines.com/) - komiksy przedstawiające techniczne zagadnienia - z kodem `WIZARDPDF` 50% taniej
 * [010 Editor](https://www.sweetscape.com/010editor/) - HEX edytor - 15% taniej
+* [Royal Apps](https://royalapps.com/ts/win/buy) - Aplikacje od Royal Apps to alternatywa dla MobaXTerm - 50% taniej z kodem `Black-Friday-2023` Royal TS lifetime za 127,93 zł
 
 # Inne listy
 
