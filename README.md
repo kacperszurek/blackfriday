@@ -16,6 +16,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus za `23.88 €` zamiast `59,88 €`
 * [TCM Security](https://certifications.tcm-sec.com/pjpt/) - certyfikat PJPT za `$199` zamiast `$249`
 * [Hunting Adversary Infrastructure](https://x.com/MichalKoczwara/status/1855958315517505856) - kurs o tematyce Threat Hunting - `$299 USD + VAT` zamiast `$499`
+* [Hak5](https://shop.hak5.org/collections/bfcm) - sprzęt do działań Red Team - z kodem `H4K3DNOV24` niektóre produkty `$10` taniej _(uwaga na cło)_
 
 # Inne listy
 
