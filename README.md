@@ -19,8 +19,9 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Hak5](https://shop.hak5.org/collections/bfcm) - sprzęt do działań Red Team - z kodem `H4K3DNOV24` niektóre produkty `$10` taniej _(uwaga na cło)_
 * [YubiKey](https://www.yubico.com/pl/store/2024/black-friday-sale/) - klucze sprzętowe - `€25` taniej przy zamówieniach powyżej `€100`
 * [Dashlane](https://www.dashlane.com/getpremium?coupon=PREM24BF) - menadżer  haseł - z kodem `PREM24BF` Dashlane Premium  `$29.99` zamiast `$59.99`
+* [1Password](https://cybernews.com/password-managers-coupons/1password-coupon-codes/) - menadżer haseł - pierwszy rok planu Personal lub Family `%50` taniej
 * [AppSecEngineer](https://www.appsecengineer.com/individuals/pricing) - szkolenia DevSecOps - z kodem `LEVELUP40` roczne plany `40%` taniej
-
+* [Security Blue Team](https://www.securityblue.team/black-friday-2024) - kursy blue team - BTL1 `£359` zamiast `£414`
 
 # Inne rabaty
 
@@ -28,6 +29,8 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Typingmind](https://www.typingmind.com/) - UI dla różnych chatów AI - plan Premium `$89` zamiast `$198`
 * [Standard Notes](https://standardnotes.com/plans) - szyfrowane notatki - `$45` zamiast `$90` za plan Productivity 
 * [Pluralsight](https://www.pluralsight.com/pricing/skills?type=individual) - różne kursy IT - roczny plan Standard `$149` zamiast `$299`
+* [Affinity](https://affinity.serif.com/en-gb/photo/#buy) - programy graficzne - wieczysta licencja V2 `304 PLN` zamiast `607 PLN`
+* [Mikrus](https://mikr.us/#pricing) - serwery VPS do nauki - Mikrus 3.0 2GB RAM, dysk 25GB - `130 PLN/rok`
 
 # Inne listy
 
