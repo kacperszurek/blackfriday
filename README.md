@@ -34,6 +34,10 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Mikrus](https://mikr.us/#pricing) - serwery VPS do nauki - Mikrus 3.0 2GB RAM, dysk 25GB - `130 PLN/rok`
 * [Grammarly](https://www.grammarly.com/black-friday) - sprawdzanie pisowni - wszystkie plany `50%` taniej
 
+# Pomysły na prezent
+
+* [Zagrajmy jeszcze raz](https://alt.pl/zagrajmy-jeszcze-raz-arkadiusz-kaminski/) - książka o złotych czasach gier w PL - `59,99 PLN` _(przedsprzedaż)_
+* [Rodologia](https://blog-daneosobowe.pl/produkt/rodologia-ebook/) - książka na temat ochrony danych osobowych - ebook `250 PLN` _(przedsprzedaż)_
 
 # Inne listy
 
