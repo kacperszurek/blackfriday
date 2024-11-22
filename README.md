@@ -22,6 +22,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [1Password](https://cybernews.com/password-managers-coupons/1password-coupon-codes/) - menadżer haseł - pierwszy rok planu Personal lub Family `%50` taniej
 * [AppSecEngineer](https://www.appsecengineer.com/individuals/pricing) - szkolenia DevSecOps - z kodem `LEVELUP40` roczne plany `40%` taniej
 * [Security Blue Team](https://www.securityblue.team/black-friday-2024) - kursy blue team - BTL1 `£359` zamiast `£414`
+* [Mastering Windows Internals](https://gtworek.com/mastering-windows-internals) - zaawansowany kurs o bezpieczeństwie Windows  - `$249` zamiast `$499`
 
 # Inne rabaty
 
@@ -31,6 +32,8 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Pluralsight](https://www.pluralsight.com/pricing/skills?type=individual) - różne kursy IT - roczny plan Standard `$149` zamiast `$299`
 * [Affinity](https://affinity.serif.com/en-gb/photo/#buy) - programy graficzne - wieczysta licencja V2 `304 PLN` zamiast `607 PLN`
 * [Mikrus](https://mikr.us/#pricing) - serwery VPS do nauki - Mikrus 3.0 2GB RAM, dysk 25GB - `130 PLN/rok`
+* [Grammarly](https://www.grammarly.com/black-friday) - sprawdzanie pisowni - wszystkie plany `50%` taniej
+
 
 # Inne listy
 
