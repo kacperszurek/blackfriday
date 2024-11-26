@@ -26,6 +26,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Mastering Windows Internals](https://gtworek.com/mastering-windows-internals) - zaawansowany kurs o bezpieczeństwie Windows  - `$249` zamiast `$499`
 * [Grupa ADM](https://asdevops.pl/akcja-specjalna/) - różne kursy Linux/Zabbix/Grafana
 * [Microsoft Press Store](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-1-save-40-or-buy-2-save-55-on-142354) - różne książki na temat Windows - z kodem `BOOKSGIVING` `40%` taniej
+* [Defensive security](https://edu.defensive-security.com/linux-attack-live-forensics-at-scale?coupon=PR2HP71-BFRIDAY) - wykrywanie ataków w systemach Linux - `€399` zamiast `€499`
 
 # Inne rabaty
 
