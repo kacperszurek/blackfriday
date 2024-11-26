@@ -30,6 +30,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Try Hack Me](https://tryhackme.com/) - platforma do nauki cyberbezpieczeństwa - roczny plan premium `$82` zamiast `$126`
 * [PentesterLab](https://pentesterlab.com/pro) - platforma do nauki cyberbezpieczeństwa - roczny plan pro `$146` zamiast `$199` lub 3 miesięczny student `$26` zamiast `$35`
 * [KNOXSS](https://knoxss.me/?page_id=1974) - automatyczne wykrywanie XSS - roczny plan Pro `$75` zamiast `$150`
+* [Sekurak Cyberstarter 2024](https://sklep.securitum.pl/sekurak-cyberstarter) - konferencja online - z kodem `BLACKCS` bilety dla osoby z IT `91,88 PLN` zamiast `306,27 PLN`
 
 # Inne rabaty
 
@@ -42,6 +43,9 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Grammarly](https://www.grammarly.com/black-friday) - sprawdzanie pisowni - wszystkie plany `50%` taniej
 * [Helion](https://helion.pl/promocja/2za1/35) - różne książki - promocja `2za1` lub ebook `50%` taniej
 * [SAPSAN](https://sapsan-sklep.pl/) - fizyczne produkty powiązane z bezpieczeństwem - darmowa dostawa od `350 PLN`
+* [Execute Program](https://www.executeprogram.com/) - interaktywne kursy z TypeScript/Python - miesięczny plan `$23.40` zamiast `$39`
+* [Pragmatic Engineer](https://newsletter.pragmaticengineer.com/9a6064c5) - płatny newsletter na tematy inżynierii oprogramowania - roczny plan `484 PLN` zamiast `605 PLN`
+* [Joy for JavaScript Developers](https://www.joyforjs.com/) - interaktywny kurs CSS, JS i React - `$249` zamiast `$998` _(gdy zaznaczysz purchasing power dla PL)_
   
 # Pomysły na prezent
 
@@ -50,6 +54,8 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Rodologia](https://blog-daneosobowe.pl/produkt/rodologia-ebook/) - książka na temat ochrony danych osobowych - ebook `250 PLN` _(przedsprzedaż)_
 * [Bug Bounty Reports Explained](https://members.bugbountyexplained.com/premium/) - newsletter na temat Bug Bounty - `$128/rok`
 * [No Starch Press](https://nostarch.com/) - książki na temat elektroniki/programowania
+* [Wykłady ZaufanaTrzeciaStrona](https://wideo.zaufanatrzeciastrona.pl/) - nagrania występów Adama Haertle - różne wykłady `0 PLN - 99 PLN`
+
 
 # Inne listy
 
