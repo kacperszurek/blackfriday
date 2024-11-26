@@ -27,6 +27,9 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Grupa ADM](https://asdevops.pl/akcja-specjalna/) - różne kursy Linux/Zabbix/Grafana
 * [Microsoft Press Store](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-1-save-40-or-buy-2-save-55-on-142354) - różne książki na temat Windows - z kodem `BOOKSGIVING` `40%` taniej
 * [Defensive security](https://edu.defensive-security.com/linux-attack-live-forensics-at-scale?coupon=PR2HP71-BFRIDAY) - wykrywanie ataków w systemach Linux - `€399` zamiast `€499`
+* [Try Hack Me](https://tryhackme.com/) - platforma do nauki cyberbezpieczeństwa - roczny plan premium `$82` zamiast `$126`
+* [PentesterLab](https://pentesterlab.com/pro) - platforma do nauki cyberbezpieczeństwa - roczny plan pro `$146` zamiast `$199` lub 3 miesięczny student `$26` zamiast `$35`
+* [KNOXSS](https://knoxss.me/?page_id=1974) - automatyczne wykrywanie XSS - roczny plan Pro `$75` zamiast `$150`
 
 # Inne rabaty
 
@@ -38,11 +41,15 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Mikrus](https://mikr.us/#pricing) - serwery VPS do nauki - Mikrus 3.0 2GB RAM, dysk 25GB - `130 PLN/rok`
 * [Grammarly](https://www.grammarly.com/black-friday) - sprawdzanie pisowni - wszystkie plany `50%` taniej
 * [Helion](https://helion.pl/promocja/2za1/35) - różne książki - promocja `2za1` lub ebook `50%` taniej
+* [SAPSAN](https://sapsan-sklep.pl/) - fizyczne produkty powiązane z bezpieczeństwem - darmowa dostawa od `350 PLN`
   
 # Pomysły na prezent
 
+* [Hack The Box Gift Card](https://www.hackthebox.com/giftcards) - podatne maszyny do nauki pentestów - karta podarunkowa na pakiet VIP
 * [Zagrajmy jeszcze raz](https://alt.pl/zagrajmy-jeszcze-raz-arkadiusz-kaminski/) - książka o złotych czasach gier w PL - `59,99 PLN` _(przedsprzedaż)_
 * [Rodologia](https://blog-daneosobowe.pl/produkt/rodologia-ebook/) - książka na temat ochrony danych osobowych - ebook `250 PLN` _(przedsprzedaż)_
+* [Bug Bounty Reports Explained](https://members.bugbountyexplained.com/premium/) - newsletter na temat Bug Bounty - `$128/rok`
+* [No Starch Press](https://nostarch.com/) - książki na temat elektroniki/programowania
 
 # Inne listy
 
