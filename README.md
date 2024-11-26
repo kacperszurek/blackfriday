@@ -31,6 +31,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [PentesterLab](https://pentesterlab.com/pro) - platforma do nauki cyberbezpieczeństwa - roczny plan pro `$146` zamiast `$199` lub 3 miesięczny student `$26` zamiast `$35`
 * [KNOXSS](https://knoxss.me/?page_id=1974) - automatyczne wykrywanie XSS - roczny plan Pro `$75` zamiast `$150`
 * [Sekurak Cyberstarter 2024](https://sklep.securitum.pl/sekurak-cyberstarter) - konferencja online - z kodem `BLACKCS` bilety dla osoby z IT `91,88 PLN` zamiast `306,27 PLN`
+* [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL/TLS - `$50` zamiast `$297`
 
 # Inne rabaty
 
@@ -46,6 +47,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Execute Program](https://www.executeprogram.com/) - interaktywne kursy z TypeScript/Python - miesięczny plan `$23.40` zamiast `$39`
 * [Pragmatic Engineer](https://newsletter.pragmaticengineer.com/9a6064c5) - płatny newsletter na tematy inżynierii oprogramowania - roczny plan `484 PLN` zamiast `605 PLN`
 * [Joy for JavaScript Developers](https://www.joyforjs.com/) - interaktywny kurs CSS, JS i React - `$249` zamiast `$998` _(gdy zaznaczysz purchasing power dla PL)_
+* [Freepik](https://www.freepik.com/pricing) - obrazy stockowe - roczny plan premium `255 PLN` zamiast `510 PLN`
   
 # Pomysły na prezent
 
