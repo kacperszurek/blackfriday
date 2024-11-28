@@ -34,6 +34,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL/TLS - `$50` zamiast `$297`
 * [Train the trainer](https://szkolenia.cyberkurs.online/produkt/szkolenie-train-the-trainer-twoja-sciezka-do-mistrzostwa-trenerskiego-w-cyberbezpieczenstwie) - szkolenie dla trenerów cyberbezpieczeństwa
 * [SEKTOR7](https://institute.sektor7.net/) - kursy Red Team - z kodem `BF24` `20%` taniej
+* [Autenti](https://autenti.com/pl/black-weeks) - platforma do podpisywania dokumentów - Plan PRO `534 PLN/użytkownik` zamiast `1068 PLN`
 
 # Inne rabaty
 
@@ -57,6 +58,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Macrium Reflect](https://www.macrium.com/products/home) - oprogramowanie do backup'u danych - `$25/rok`  zamiast `$42/rok`
 * [High Performance SQLite](https://highperformancesqlite.com/#pricing) - kurs na temat bazy SQLite - z kodem `BLACKFRIDAY` `$99` zamiast `$179`
 * [WinRAR od Rarlabs](https://shop.win-rar.com/16/uurl-m6xeiaqdh3?coupon=wdl20off) - popularny program do archiwizacji danych - `69 PLN` zamiast `184 PLN`
+* [ElevenLabs](https://elevenlabs.io/pricing) - tekst na głos z użyciem AI - plan starter `$1` przez jeden miesiąc
   
 # Pomysły na prezent
 
