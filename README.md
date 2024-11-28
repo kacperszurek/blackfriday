@@ -32,6 +32,8 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [KNOXSS](https://knoxss.me/?page_id=1974) - automatyczne wykrywanie XSS - roczny plan Pro `$75` zamiast `$150`
 * [Sekurak Cyberstarter 2024](https://sklep.securitum.pl/sekurak-cyberstarter) - konferencja online - z kodem `BLACKCS` bilety dla osoby z IT `91,88 PLN` zamiast `306,27 PLN`
 * [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL/TLS - `$50` zamiast `$297`
+* [Train the trainer](https://szkolenia.cyberkurs.online/produkt/szkolenie-train-the-trainer-twoja-sciezka-do-mistrzostwa-trenerskiego-w-cyberbezpieczenstwie) - szkolenie dla trenerów cyberbezpieczeństwa
+* [SEKTOR7](https://institute.sektor7.net/) - kursy Red Team - z kodem `BF24` `20%` taniej
 
 # Inne rabaty
 
@@ -49,6 +51,9 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Joy for JavaScript Developers](https://www.joyforjs.com/) - interaktywny kurs CSS, JS i React - `$249` zamiast `$998` _(gdy zaznaczysz purchasing power dla PL)_
 * [Freepik](https://www.freepik.com/pricing) - obrazy stockowe - roczny plan premium `255 PLN` zamiast `510 PLN`
 * [Ebooki Uczmnie.pl](https://www.uczmnie.pl/) - Przy zakupie ebooków Prompt Engineering 101 i Prompt Injection `20%` taniej
+* [DNS for developers](https://www.nslookup.io/dns-course/) - jak działa DNS - `$49` zamiast `$149`
+* [iximiuz Labs](https://labs.iximiuz.com/premium) - interaktywna nauka o kontenerach - miesięczne konto premium `$4` zamiast `$8`
+* [IT Startup](https://www.itstartup.pl/promocja-steam/) - gra karciana o programistach - `80%` taniej na fizyczną grę przy zakupie wersji na Steam
   
 # Pomysły na prezent
 
