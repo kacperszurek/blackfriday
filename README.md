@@ -54,6 +54,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [DNS for developers](https://www.nslookup.io/dns-course/) - jak działa DNS - `$49` zamiast `$149`
 * [iximiuz Labs](https://labs.iximiuz.com/premium) - interaktywna nauka o kontenerach - miesięczne konto premium `$4` zamiast `$8`
 * [IT Startup](https://www.itstartup.pl/promocja-steam/) - gra karciana o programistach - `80%` taniej na fizyczną grę przy zakupie wersji na Steam
+* [High Performance SQLite](https://highperformancesqlite.com/#pricing) - kurs na temat bazy SQLite - z kodem `BLACKFRIDAY` `$99` zamiast `$179`
   
 # Pomysły na prezent
 
