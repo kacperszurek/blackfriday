@@ -56,10 +56,12 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [IT Startup](https://www.itstartup.pl/promocja-steam/) - gra karciana o programistach - `80%` taniej na fizyczną grę przy zakupie wersji na Steam
 * [Macrium Reflect](https://www.macrium.com/products/home) - oprogramowanie do backup'u danych - `$25/rok`  zamiast `$42/rok`
 * [High Performance SQLite](https://highperformancesqlite.com/#pricing) - kurs na temat bazy SQLite - z kodem `BLACKFRIDAY` `$99` zamiast `$179`
+* [WinRAR od Rarlabs](https://shop.win-rar.com/16/uurl-m6xeiaqdh3?coupon=wdl20off) - popularny program do archiwizacji danych - `69 PLN` zamiast `184 PLN`
   
 # Pomysły na prezent
 
-* [Hack The Box Gift Card](https://www.hackthebox.com/giftcards) - podatne maszyny do nauki pentestów - karta podarunkowa na pakiet VIP
+* [Hack The Box Gift Card](https://www.hackthebox.com/giftcards) - platforma do nauki pentestów - karta podarunkowa na wybrane Labs (gotowe infrastruktury do pentestowania) oraz pakiet VIP / VIP+ (szerszy dostęp do materiałów i Pwnbox - Kali Linux w chmurze)
+* [TryHackMe Vouchers](https://tryhackme.com/r/subscriptions) - platforma do nauki pentestów/CTFów - karta podarunkowa na pakiet Premium (szerszy dostęp do materiałów i Kali Linux w chmurze bez limitu)
 * [Zagrajmy jeszcze raz](https://alt.pl/zagrajmy-jeszcze-raz-arkadiusz-kaminski/) - książka o złotych czasach gier w PL - `59,99 PLN` _(przedsprzedaż)_
 * [Rodologia](https://blog-daneosobowe.pl/produkt/rodologia-ebook/) - książka na temat ochrony danych osobowych - ebook `250 PLN` _(przedsprzedaż)_
 * [Bug Bounty Reports Explained](https://members.bugbountyexplained.com/premium/) - newsletter na temat Bug Bounty - `$128/rok`
