@@ -77,4 +77,6 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * https://github.com/0x90n/InfoSec-Black-Friday
 * https://training.dfirdiva.com/current-discounts
 * https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday
+* https://github.com/mRs-/Black-Friday-Deals
+* https://www.apps.deals/
 
