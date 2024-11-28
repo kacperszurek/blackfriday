@@ -56,7 +56,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [IT Startup](https://www.itstartup.pl/promocja-steam/) - gra karciana o programistach - `80%` taniej na fizyczną grę przy zakupie wersji na Steam
 * [Macrium Reflect](https://www.macrium.com/products/home) - oprogramowanie do backup'u danych - `$25/rok`  zamiast `$42/rok`
 * [High Performance SQLite](https://highperformancesqlite.com/#pricing) - kurs na temat bazy SQLite - z kodem `BLACKFRIDAY` `$99` zamiast `$179`
-* [WinRAR od Rarlabs](https://shop.win-rar.com/16/uurl-m6xeiaqdh3?coupon=wdl20off) - bardzo dobrze znany program do archiwizacji danych - pod linkiem (kod `wdl20off`) `60%` taniej
+* [WinRAR od Rarlabs](https://shop.win-rar.com/16/uurl-m6xeiaqdh3?coupon=wdl20off) - popularny program do archiwizacji danych - `69 PLN` zamiast `184 PLN`
   
 # Pomysły na prezent
 
