@@ -48,6 +48,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Pragmatic Engineer](https://newsletter.pragmaticengineer.com/9a6064c5) - płatny newsletter na tematy inżynierii oprogramowania - roczny plan `484 PLN` zamiast `605 PLN`
 * [Joy for JavaScript Developers](https://www.joyforjs.com/) - interaktywny kurs CSS, JS i React - `$249` zamiast `$998` _(gdy zaznaczysz purchasing power dla PL)_
 * [Freepik](https://www.freepik.com/pricing) - obrazy stockowe - roczny plan premium `255 PLN` zamiast `510 PLN`
+* [Ebooki Uczmnie.pl](https://www.uczmnie.pl/) - Przy zakupie ebooków Prompt Engineering 101 i Prompt Injection `20%` taniej
   
 # Pomysły na prezent
 
