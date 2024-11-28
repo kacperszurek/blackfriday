@@ -35,6 +35,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Train the trainer](https://szkolenia.cyberkurs.online/produkt/szkolenie-train-the-trainer-twoja-sciezka-do-mistrzostwa-trenerskiego-w-cyberbezpieczenstwie) - szkolenie dla trenerów cyberbezpieczeństwa
 * [SEKTOR7](https://institute.sektor7.net/) - kursy Red Team - z kodem `BF24` `20%` taniej
 * [Autenti](https://autenti.com/pl/black-weeks) - platforma do podpisywania dokumentów - Plan PRO `534 PLN/użytkownik` zamiast `1068 PLN`
+* [Oh My Hack 2025](https://eventory.cc/event/oh-my-hack-2025/tickets) - konferencja o bezpieczeństwie - bilety Early Bird `798 PLN`
 
 # Inne rabaty
 
