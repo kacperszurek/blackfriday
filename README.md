@@ -39,6 +39,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Alphasec](https://alphasec.pl/ironps-black) - Szkolenie PowerShell żelazne podstawy - `553 PLN` zamiast `738 PLN`
 * [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY) - kurs na temat narzędzia do phishingu - `€199` zamiast `€399`
 * [CONFidence 2025](https://eventory.cc/event/confidence-2025/tickets) - konferencja o bezpieczeństwie - bilety Early Bird `1228 PLN`
+* [iOS Application Security Engineer](https://courses.securing.pl/courses/iase) - kurs o bezpieczeństwie urządzeń Apple - z kodem `black20` `€1120` zamiast `€1400`
   
 # Inne rabaty
 
