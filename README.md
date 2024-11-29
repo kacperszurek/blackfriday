@@ -10,8 +10,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 
 # Promocje security
 
-* [Bezpieczny Programista](https://sklep.szurek.tv/bezpieczny-programista) - Kurs bezpieczeństwa aplikacji webowych dla programistów - dostęp na rok `999 PLN` [autopromocja]
-* [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących - dostęp na rok `499 PLN` [autopromocja]
+* [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących - `549 PLN/rok` [autopromocja]
 * [LetsDefend](https://letsdefend.io/) - kursy Blue Team - z kodem `BLCKFRDY55` roczny plan VIP za `200,25 PLN` zamiast `444,99 PLN`
 * [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus za `23.88 €` zamiast `59,88 €`
 * [Tuta](https://tuta.com/blog/black-weeks-at-tuta) - szyfrowana poczta - roczny plan Legend za `36 €` zamiast `96 €`
@@ -40,6 +39,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY) - kurs na temat narzędzia do phishingu - `€199` zamiast `€399`
 * [CONFidence 2025](https://eventory.cc/event/confidence-2025/tickets) - konferencja o bezpieczeństwie - bilety Early Bird `1228 PLN`
 * [iOS Application Security Engineer](https://courses.securing.pl/courses/iase) - kurs o bezpieczeństwie urządzeń Apple - z kodem `black20` `€1120` zamiast `€1400`
+* [Katie Paxton-Fear](https://x.com/InsiderPhD/status/1862517917423657356) - różne pomysły prezentów, wątek na Twitterze
   
 # Inne rabaty
 
