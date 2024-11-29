@@ -38,7 +38,8 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Oh My Hack 2025](https://eventory.cc/event/oh-my-hack-2025/tickets) - konferencja o bezpieczeństwie - bilety Early Bird `798 PLN`
 * [Alphasec](https://alphasec.pl/ironps-black) - Szkolenie PowerShell żelazne podstawy - `553 PLN` zamiast `738 PLN`
 * [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY) - kurs na temat narzędzia do phishingu - `€199` zamiast `€399`
-
+* [CONFidence 2025](https://eventory.cc/event/confidence-2025/tickets) - konferencja o bezpieczeństwie - bilety Early Bird `1228 PLN`
+  
 # Inne rabaty
 
 * [Office 365 Personal](https://www.pepper.pl/promocje/microsoft-office-365-personal-pl-1-osoba-5-urzadzen-12-miesiecy-wersja-fizyczna-komercyjna-polska-931553) - 1 TB na backup w chmurze + Word i Excel w pakiecie - około `160 PLN/rok`
