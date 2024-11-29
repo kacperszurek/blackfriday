@@ -42,7 +42,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
   
 # Inne rabaty
 
-* [Office 365 Personal](https://www.pepper.pl/promocje/microsoft-office-365-personal-pl-1-osoba-5-urzadzen-12-miesiecy-wersja-fizyczna-komercyjna-polska-931553) - 1 TB na backup w chmurze + Word i Excel w pakiecie - około `160 PLN/rok`
+* [Office 365 Personal](https://www.x-kom.pl/p/1189596-program-biurowy-microsoft-365-personal.html) - 1 TB na backup w chmurze + Word i Excel w pakiecie - około `155 PLN/rok`
 * [Typingmind](https://www.typingmind.com/) - UI dla różnych chatów AI - plan Premium `$89` zamiast `$198`
 * [Standard Notes](https://standardnotes.com/plans) - szyfrowane notatki - `$45` zamiast `$90` za plan Productivity 
 * [Pluralsight](https://www.pluralsight.com/pricing/skills?type=individual) - różne kursy IT - roczny plan Standard `$149` zamiast `$299`
