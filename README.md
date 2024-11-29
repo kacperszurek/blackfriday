@@ -47,6 +47,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Standard Notes](https://standardnotes.com/plans) - szyfrowane notatki - `$45` zamiast `$90` za plan Productivity 
 * [Pluralsight](https://www.pluralsight.com/pricing/skills?type=individual) - różne kursy IT - roczny plan Standard `$149` zamiast `$299`
 * [Affinity](https://affinity.serif.com/en-gb/photo/#buy) - programy graficzne - wieczysta licencja V2 `304 PLN` zamiast `607 PLN`
+* [ON1](https://www.on1.com/landing/bfriday/) - edytor zdjęć, alternatywna dla Lightrooma - wieczysta licencja `265 PLN` zamiast `530 PLN`
 * [Mikrus](https://mikr.us/#pricing) - serwery VPS do nauki - Mikrus 3.0 2GB RAM, dysk 25GB - `130 PLN/rok`
 * [Grammarly](https://www.grammarly.com/black-friday) - sprawdzanie pisowni - wszystkie plany `50%` taniej
 * [Helion](https://helion.pl/promocja/2za1/35) - różne książki - promocja `2za1` lub ebook `50%` taniej
