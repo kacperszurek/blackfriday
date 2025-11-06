@@ -1,4 +1,4 @@
-# Promocje black friday
+# Promocje black friday 2025
 Zbiór promocji na black friday/black week/cyber monday o tematyce bezpieczeństwa/security/infosec.
 
 Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
@@ -8,9 +8,16 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 # Chcesz coś dodać?
 Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 
-# Promocje security
+# Promocje security 2025
 
-* [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących - `549 PLN/rok` [autopromocja]
+* [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących - `599 PLN/rok` [autopromocja]
+* [Bezpieczny Programista](https://sklep.szurek.tv/bezpieczny-programista) - Kurs dla programistów, którzy chcą pisać bezpieczny kod - `1099 PLN/rok` [autopromocja]
+* [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus za `29.88 €`
+* [TCM Security](https://academy.tcm-sec.com/p/the-all-access-pass) - rożne kursy - miesięczny dostęp All-Access Membership `$14.99` zamiast `$29.99`
+* [KNOXSS](https://knoxss.pro/?page_id=1974) - automatyczne wykrywanie XSS - niektóre plany `50%` taniej
+
+# Promocje security 2024
+
 * [LetsDefend](https://letsdefend.io/) - kursy Blue Team - z kodem `BLCKFRDY55` roczny plan VIP za `200,25 PLN` zamiast `444,99 PLN`
 * [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus za `23.88 €` zamiast `59,88 €`
 * [Tuta](https://tuta.com/blog/black-weeks-at-tuta) - szyfrowana poczta - roczny plan Legend za `36 €` zamiast `96 €`
@@ -41,7 +48,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [iOS Application Security Engineer](https://courses.securing.pl/courses/iase) - kurs o bezpieczeństwie urządzeń Apple - z kodem `black20` `€1120` zamiast `€1400`
 * [Katie Paxton-Fear](https://x.com/InsiderPhD/status/1862517917423657356) - różne pomysły prezentów, wątek na Twitterze
   
-# Inne rabaty
+# Inne rabaty 2024
 
 * [Office 365 Personal](https://www.x-kom.pl/p/1189596-program-biurowy-microsoft-365-personal.html) - 1 TB na backup w chmurze + Word i Excel w pakiecie - około `155 PLN/rok`
 * [Typingmind](https://www.typingmind.com/) - UI dla różnych chatów AI - plan Premium `$89` zamiast `$198`
