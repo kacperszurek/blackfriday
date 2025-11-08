@@ -15,6 +15,10 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus za `29.88 €`
 * [TCM Security](https://academy.tcm-sec.com/p/the-all-access-pass) - rożne kursy - miesięczny dostęp All-Access Membership `$14.99` zamiast `$29.99`
 * [KNOXSS](https://knoxss.pro/?page_id=1974) - automatyczne wykrywanie XSS - niektóre plany `50%` taniej
+* [Linux Attack, Detection and Live Forensics](https://edu.defensive-security.com/linux-attack-live-forensics-at-scale?coupon=DFIRDIVA25) - kurs o metodach ataków systemów Linux - `299.25 €` zamiast `399 €`
+* [OffSec learn one](https://www.offsec.com/pricing/) - roczny dostęp do kursów OffSec - `$2199` zamiast `$2749`
+* [Linux for Professionals](https://www.humblebundle.com/books/linux-for-professionals-apressspringer-books) - zbiór książek na temat Linuxa - `27.55 €`
+
 
 # Promocje security 2024
 
