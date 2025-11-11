@@ -18,7 +18,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Linux Attack, Detection and Live Forensics](https://edu.defensive-security.com/linux-attack-live-forensics-at-scale?coupon=DFIRDIVA25) - kurs o metodach ataków systemów Linux - `299.25 €` zamiast `399 €`
 * [OffSec learn one](https://www.offsec.com/pricing/) - roczny dostęp do kursów OffSec - `$2199` zamiast `$2749`
 * [Linux for Professionals](https://www.humblebundle.com/books/linux-for-professionals-apressspringer-books) - zbiór książek na temat Linuxa - `27.55 €`
-
+* [Klucze Yubikey](https://www.yubico.com/pl/store/2025/black-friday-sale/) - klucze bezpieczeństwa - `30%` taniej na maksymalnie 4 klucze `5 NFC/5C NFC` _(od 24.11)_
 
 # Promocje security 2024
 
