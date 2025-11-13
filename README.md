@@ -19,6 +19,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [OffSec learn one](https://www.offsec.com/pricing/) - roczny dostęp do kursów OffSec - `$2199` zamiast `$2749`
 * [Linux for Professionals](https://www.humblebundle.com/books/linux-for-professionals-apressspringer-books) - zbiór książek na temat Linuxa - `27.55 €`
 * [Klucze Yubikey](https://www.yubico.com/pl/store/2025/black-friday-sale/) - klucze bezpieczeństwa - `30%` taniej na maksymalnie 4 klucze `5 NFC/5C NFC` _(od 24.11)_
+* [LabEx](https://labex.io/learn) - interaktywne laboratoria online do nauki Linuxa, DevOps i Cybersecurity - `50%` zniżki na plan dwuletni (`2025BF50`) i `30%` zniżki na plan roczny (`2025BF30`) *(12.11–1.12)*
 
 # Promocje security 2024
 
