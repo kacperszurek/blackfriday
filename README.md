@@ -19,6 +19,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [OffSec learn one](https://www.offsec.com/pricing/) - roczny dostęp do kursów OffSec - `$2199` zamiast `$2749`
 * [Linux for Professionals](https://www.humblebundle.com/books/linux-for-professionals-apressspringer-books) - zbiór książek na temat Linuxa - `27.55 €`
 * [Klucze Yubikey](https://www.yubico.com/pl/store/2025/black-friday-sale/) - klucze bezpieczeństwa - `30%` taniej na maksymalnie 4 klucze `5 NFC/5C NFC` _(od 24.11)_
+* [pwn.guide](https://pwn.guide) - Naucz się hakowania dzięki ponad 150 samouczkom, obejmującym takie tematy jak hakowanie stron internetowych, sprzętu komputerowego i sieci bezprzewodowych, a także kryminalistykę komputerową, ochronę i szkolenia certyfikacyjne, np. do uzyskania certyfikatu CompTIA Security+ SY0-701. - `20%` na wszystkie plany, w tym dożywotni, z kodem `BLKFRI20` _(do 5.12)_
 
 # Promocje security 2024
 
