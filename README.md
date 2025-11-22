@@ -19,6 +19,16 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [OffSec learn one](https://www.offsec.com/pricing/) - roczny dostęp do kursów OffSec - `$2199` zamiast `$2749`
 * [Linux for Professionals](https://www.humblebundle.com/books/linux-for-professionals-apressspringer-books) - zbiór książek na temat Linuxa - `27.55 €`
 * [Klucze Yubikey](https://www.yubico.com/pl/store/2025/black-friday-sale/) - klucze bezpieczeństwa - `30%` taniej na maksymalnie 4 klucze `5 NFC/5C NFC` _(od 24.11)_
+* [Pluralsight](https://www.pluralsight.com/individuals/pricing) - różne kursy IT - z kodem `55EARLYACCESS` roczne plany `55%` taniej
+* [Sekurak](https://blackweek.sekurak.pl/) - różne szkolenia - rabaty od `50%` do `80%`
+* [Oh My Hack 2025](https://eventory.cc/event/oh-my-hack-2025/tickets)- konferencja o bezpieczeństwie - z kodem `KOCIEUSZKA` bilety `15%` taniej
+* [IDA Home lub PRO](https://hex-rays.com/pricing) - narzędzie do inżynierii wstecznej - plany indywidualne `50%` taniej z kodem `BILLY50` lub `HAMMOND50`
+* [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKWEEK) - kurs na temat narzędzia do phishingu - `€199` zamiast `€399`
+* [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL/TLS - `$49` zamiast `$297` z kodem `BFCM2025` 
+* [LetsDefend](https://app.letsdefend.io/pricing) - kursy Blue Team - `50%` taniej z kodem `BLCKFRDY`
+* [Hacktricks](https://training.hacktricks.xyz/courses) - kursy na temat bezpieczeństwa chmury - `20%` taniej
+* [API Hacking](https://www.justhacking.com/course/api-hacking/) - kursy na temat bezpieczeństwa API - `$75` zamiast `$100` z kodem `BLACKFRIDAY25` 
+* [Grupa ADM](https://asdevops.pl/bf/) - szkolenia dla administratorów - różne promocje
 
 # Promocje security 2024
 
