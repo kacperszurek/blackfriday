@@ -29,6 +29,14 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Hacktricks](https://training.hacktricks.xyz/courses) - kursy na temat bezpieczeństwa chmury - `20%` taniej
 * [API Hacking](https://www.justhacking.com/course/api-hacking/) - kursy na temat bezpieczeństwa API - `$75` zamiast `$100` z kodem `BLACKFRIDAY25` 
 * [Grupa ADM](https://asdevops.pl/bf/) - szkolenia dla administratorów - różne promocje
+* [Tuta](https://tuta.com/blog/black-weeks-at-tuta) - szyfrowana poczta - roczny plan Legend za `36 €` zamiast `96 €`
+* [Grayhat Warefare](https://grayhatwarfare.com/packages) - wyszukiwarka publicznych kubełków S3 - roczny plan `160 €` zamiast `300 €`
+* [OVH](https://www.ovhcloud.com/pl/black-friday/) - serwery VPS/dedykowane - różne promocje
+* [Practical DevSecOps](https://www.practical-devsecops.com/pricing/) - kursy o tematyce DevSecOps - `15%` taniej
+* [Kindle](https://www.amazon.pl/kindle-2024/dp/B0CP32JG8B/) - czytnik ebooków - `410 PLN` zamiast `520 PLN`
+* [packtpub](https://www.packtpub.com/en-us/subscribe) - książki w subskrypcji - pierwszy miesiąc za `$12.29` zamiast `$24.59`
+* [iOS Application Security Engineer](https://courses.securing.pl/courses/iase) - kurs o bezpieczeństwie urządzeń Apple - `€980` zamiast `€1400` z kodem `blackmonth`
+* [JavaScript for Hackers](https://www.amazon.pl/JavaScript-hackers-Learn-think-hacker/dp/B0BRD9B3GS/) - JS z perspektywy pentestera - `51.39 PLN`
 
 # Promocje security 2024
 
