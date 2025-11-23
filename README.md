@@ -37,6 +37,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [packtpub](https://www.packtpub.com/en-us/subscribe) - książki w subskrypcji - pierwszy miesiąc za `$12.29` zamiast `$24.59`
 * [iOS Application Security Engineer](https://courses.securing.pl/courses/iase) - kurs o bezpieczeństwie urządzeń Apple - `€980` zamiast `€1400` z kodem `blackmonth`
 * [JavaScript for Hackers](https://www.amazon.pl/JavaScript-hackers-Learn-think-hacker/dp/B0BRD9B3GS/) - JS z perspektywy pentestera - `51.39 PLN`
+* [iximiuz Labs](https://labs.iximiuz.com/premium) - platforma do interaktywnej nauki o kontenerach - plan premium `70%` taniej
 
 # Promocje security 2024
 
