@@ -38,6 +38,11 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [iOS Application Security Engineer](https://courses.securing.pl/courses/iase) - kurs o bezpieczeństwie urządzeń Apple - `€980` zamiast `€1400` z kodem `blackmonth`
 * [JavaScript for Hackers](https://www.amazon.pl/JavaScript-hackers-Learn-think-hacker/dp/B0BRD9B3GS/) - JS z perspektywy pentestera - `51.39 PLN`
 * [iximiuz Labs](https://labs.iximiuz.com/premium) - platforma do interaktywnej nauki o kontenerach - plan premium `70%` taniej
+* [Magazyn Programista](https://programistamag.pl/black-weeks-2025/) - 3 archiwalne wydania za `55 PLN`
+* [Hackinghub](https://app.hackinghub.io/bundle/the-hackers-arsenal?v=2025ArsenalBundle) - zestaw kursów za `$149` zamiast `$379`
+* [1Password](https://1password.com/promo/black-friday) - menadżer haseł - konto Individual `$1.99` zamiast `$3.99` miesięcznie przez pierwszy rok
+* [Coursera Plus](https://www.coursera.org/courseraplus/special/global-40-off-nov-2025) - różne kursy - roczny abonament `$239` zamiast `$399`
+* [W kontenerach](https://sklep.wkontenerach.pl/) - szkolenia Docker/Kubernetes - różne promocje
 
 # Promocje security 2024
 
