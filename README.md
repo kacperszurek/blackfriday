@@ -12,6 +12,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 
 * [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących - `599 PLN/rok` [autopromocja]
 * [Bezpieczny Programista](https://sklep.szurek.tv/bezpieczny-programista) - Kurs dla programistów, którzy chcą pisać bezpieczny kod - `1099 PLN/rok` [autopromocja]
+* [Automatyzacja SQL Injection](https://sklep.szurek.tv/automatyzacja-sql-injection) - Kurs obsługi narzędzia `sqlmap` - `123 PLN/rok` [autopromocja]
 * [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus za `29.88 €`
 * [TCM Security](https://academy.tcm-sec.com/p/the-all-access-pass) - rożne kursy - miesięczny dostęp All-Access Membership `$14.99` zamiast `$29.99`
 * [KNOXSS](https://knoxss.pro/?page_id=1974) - automatyczne wykrywanie XSS - niektóre plany `50%` taniej
