@@ -43,6 +43,10 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [1Password](https://1password.com/promo/black-friday) - menadżer haseł - konto Individual `$1.99` zamiast `$3.99` miesięcznie przez pierwszy rok
 * [Coursera Plus](https://www.coursera.org/courseraplus/special/global-40-off-nov-2025) - różne kursy - roczny abonament `$239` zamiast `$399`
 * [W kontenerach](https://sklep.wkontenerach.pl/) - szkolenia Docker/Kubernetes - różne promocje
+* [OSINT Industries](https://app.osint.industries/pricing) - narzędzie do OSINTu - z kodem `BLACKFRIDAY` pierwszy miesiąc `60%` taniej
+* [No Starch Press](https://nostarch.com/) - książki na temat IT - z kodem `BLACKFRIDAY25` książki `42%` taniej
+* [Invoke RE](https://training.invokere.com/pricing) - szkolenia z inżynierii wstecznej `20%` taniej
+* [Red Team Ops](https://www.zeropointsecurity.co.uk/course/red-team-ops) - szkolenie z red teamingu - dla Polaków `£199` zamiast `£399`
 
 # Promocje security 2024
 
