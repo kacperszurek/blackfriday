@@ -10,6 +10,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 
 # Promocje security 2025
 
+* [Kurs Elastic Stack](https://wiadrodanych.pl/elastic) - taniej o 50% z kodem `black` do końca listopada [autopromocja]
 * [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących - `599 PLN/rok` [autopromocja]
 * [Bezpieczny Programista](https://sklep.szurek.tv/bezpieczny-programista) - Kurs dla programistów, którzy chcą pisać bezpieczny kod - `1099 PLN/rok` [autopromocja]
 * [Automatyzacja SQL Injection](https://sklep.szurek.tv/automatyzacja-sql-injection) - Kurs obsługi narzędzia `sqlmap` - `123 PLN/rok` [autopromocja]
