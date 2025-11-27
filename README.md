@@ -48,7 +48,9 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [No Starch Press](https://nostarch.com/) - książki na temat IT - z kodem `BLACKFRIDAY25` książki `42%` taniej
 * [Invoke RE](https://training.invokere.com/pricing) - szkolenia z inżynierii wstecznej `20%` taniej
 * [Red Team Ops](https://www.zeropointsecurity.co.uk/course/red-team-ops) - szkolenie z red teamingu - dla Polaków `£199` zamiast `£399`
-
+* [SEKTOR7](https://institute.sektor7.net/consumer?coupon=BF25) - kursy Red Team `25%` taniej
+* [Admin  akademia](https://adminakademia.pl/2025/11/27/rozpoczynamy-black-friday-black-week-w-adminakademia-kursy-do-samodzielnej-realizacji-z-dodatkowym-rabatem-30-do-godz-2359-w-poniedzialek-01-12-2025/) - kursy Linux/Windows Server/Cisco `30%` taniej
+ 
 # Promocje security 2024
 
 * [LetsDefend](https://letsdefend.io/) - kursy Blue Team - z kodem `BLCKFRDY55` roczny plan VIP za `200,25 PLN` zamiast `444,99 PLN`
