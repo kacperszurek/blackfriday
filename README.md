@@ -50,7 +50,12 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Red Team Ops](https://www.zeropointsecurity.co.uk/course/red-team-ops) - szkolenie z red teamingu - dla Polaków `£199` zamiast `£399`
 * [SEKTOR7](https://institute.sektor7.net/consumer?coupon=BF25) - kursy Red Team `25%` taniej
 * [Admin  akademia](https://adminakademia.pl/2025/11/27/rozpoczynamy-black-friday-black-week-w-adminakademia-kursy-do-samodzielnej-realizacji-z-dodatkowym-rabatem-30-do-godz-2359-w-poniedzialek-01-12-2025/) - kursy Linux/Windows Server/Cisco `30%` taniej
- 
+* [Security Blue Team](https://www.securityblue.team/black-friday-2025) - kurs BTL2 `£999` zamiast `£1999`
+* [Wizard Zines](https://wizardzines.com/zines/all-the-zines/) - komiksy wyjaśniające informatyczne pojęcia - `271 PLN` zamiast `541 PLN`
+* [010 Editor](https://www.sweetscape.com/store/) - edytor HEX `15%` taniej
+* [Hack The Box](https://x.com/hackthebox_eu/status/1992609111603589268) - roczna subskrypcja HTB Pro Labs `25%` taniej
+* [Parallels](https://www.parallels.com/products/desktop/buy/) - narzędzie do wirtualizacji na MacOS `50%` taniej
+* [Zrozum Sieci Komputerowe](https://zrozumsieci.pl/kurs) - szkolenie z podstaw sieci - `200 PLN` taniej z kodem `bf200`
 # Promocje security 2024
 
 * [LetsDefend](https://letsdefend.io/) - kursy Blue Team - z kodem `BLCKFRDY55` roczny plan VIP za `200,25 PLN` zamiast `444,99 PLN`
@@ -107,7 +112,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [High Performance SQLite](https://highperformancesqlite.com/#pricing) - kurs na temat bazy SQLite - z kodem `BLACKFRIDAY` `$99` zamiast `$179`
 * [WinRAR od Rarlabs](https://shop.win-rar.com/16/uurl-m6xeiaqdh3?coupon=wdl20off) - popularny program do archiwizacji danych - `69 PLN` zamiast `184 PLN`
 * [ElevenLabs](https://elevenlabs.io/pricing) - tekst na głos z użyciem AI - plan starter `$1` przez jeden miesiąc
-  
+
 # Pomysły na prezent
 
 * [Hack The Box Gift Card](https://www.hackthebox.com/giftcards) - platforma do nauki pentestów - karta podarunkowa na wybrane Labs (gotowe infrastruktury do pentestowania) oraz pakiet VIP / VIP+ (szerszy dostęp do materiałów i Pwnbox - Kali Linux w chmurze)
