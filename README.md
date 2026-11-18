@@ -1,16 +1,31 @@
-# Promocje black friday 2025
+# Promocje black friday 2026
 Zbiór promocji na black friday/black week/cyber monday o tematyce bezpieczeństwa/security/infosec.
 
 Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 
 **Bez ofert usług VPN**.
 
-# Chcesz coś dodać?
-Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
+# Promocje security 2026
 
+* [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących - `899 PLN/rok` [autopromocja]
+* [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus za `75.48 PLN`
+* [Klucze Yubikey](https://www.yubico.com/pl/store/2026/black-friday-sale/) - klucze bezpieczeństwa
+* [Oh My Hack 2026](https://eventory.cc/event/oh-my-hack-2026/tickets)- konferencja o bezpieczeństwie - z kodem `Kacper10S` bilety `10%` taniej _(nie dotyczy biletów studenckich i KB)_
+* [TCM Security](https://tcm-sec.com/black-friday-deals/) - rożne kursy - roczny dostęp `$149.99` zamiast `$299.98`
+* [1Password](https://start.1password.com/sign-up?c=CYBER25) - menadżer haseł - pierwszy rok `50%` taniej
+* [iximiuz Labs](https://labs.iximiuz.com/premium) - platforma do interaktywnej nauki o kontenerach - plan premium `65%` taniej
+* [OVH](https://www.ovhcloud.com/pl/black-friday/) - serwery VPS/dedykowane - różne promocje
+* [Mikrus](https://mikr.us/) - serwery VPS do nauki
+* [Autenti eSign](https://autenti.com/pl/black-weeks-2026) - elektroniczny obieg dokumentów - pierwszy rok dla nowych klientów `40%` taniej
+* [doPodpisu](https://dopodpisu.pl/kwalifikowany-podpis-jednorazowy/) - podpisy kwalifikowane - pakiet 100 podpisów `100 PLN` zamiast `260 PLN`
+* [Hetzner Storage Box](https://www.hetzner.com/storage/storage-box/) - miejsce na backup plików - 5TB `13.41 €/miesiąc`
+* [OffSec learn one](https://www.offsec.com/products/learn-one/) - roczny dostęp do kursów OffSec - `$2199` zamiast `$2749`
+* [Hacktricks](https://training.hacktricks.xyz/courses) - kursy na temat bezpieczeństwa chmury - `35%` taniej
+* [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL/TLS - `$50` zamiast `$297` z kodem `BF2026TLS` 
+  
 # Promocje security 2025
 
-* [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących - `599 PLN/rok` [autopromocja]
+* [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących` [autopromocja]
 * [Bezpieczny Programista](https://sklep.szurek.tv/bezpieczny-programista) - Kurs dla programistów, którzy chcą pisać bezpieczny kod - `1099 PLN/rok` [autopromocja]
 * [Automatyzacja SQL Injection](https://sklep.szurek.tv/automatyzacja-sql-injection) - Kurs obsługi narzędzia `sqlmap` - `123 PLN/rok` [autopromocja]
 * [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus za `29.88 €`
@@ -56,6 +71,7 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 * [Hack The Box](https://x.com/hackthebox_eu/status/1992609111603589268) - roczna subskrypcja HTB Pro Labs `25%` taniej
 * [Parallels](https://www.parallels.com/products/desktop/buy/) - narzędzie do wirtualizacji na MacOS `50%` taniej
 * [Zrozum Sieci Komputerowe](https://zrozumsieci.pl/kurs) - szkolenie z podstaw sieci - `200 PLN` taniej z kodem `bf200`
+  
 # Promocje security 2024
 
 * [LetsDefend](https://letsdefend.io/) - kursy Blue Team - z kodem `BLCKFRDY55` roczny plan VIP za `200,25 PLN` zamiast `444,99 PLN`
@@ -127,8 +143,9 @@ Stwórz [pull request](https://github.com/kacperszurek/blackfriday/pulls).
 # Inne listy
 
 * https://github.com/0x90n/InfoSec-Black-Friday
-* https://training.dfirdiva.com/current-discounts
+* https://community-listings.dfirdiva.com/discounts/
 * https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday
 * https://github.com/mRs-/Black-Friday-Deals
+* https://github.com/v3nomtech/infosec-cert-black-friday-2026
 * https://www.apps.deals/
 
