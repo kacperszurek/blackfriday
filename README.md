@@ -22,6 +22,10 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [OffSec learn one](https://www.offsec.com/products/learn-one/) - roczny dostęp do kursów OffSec - `$2199` zamiast `$2749`
 * [Hacktricks](https://training.hacktricks.xyz/courses) - kursy na temat bezpieczeństwa chmury - `35%` taniej
 * [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL/TLS - `$50` zamiast `$297` z kodem `BF2026TLS` 
+* [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) - framework do tworzenia i uruchamiania exploitów z funkcjami AI, ponad 46 000 exploitów oraz integracją z Ghidra, WinDbg i GDB - `20%` taniej: `960 €` zamiast `1 200 €`; kod `LIFETIME` zmienia licencję promocyjną na dożywotnią; oferta do 30.11.2026
+* [Control Pack](https://www.exploitpack.com/products/control-pack) - wieloplatformowy framework C2 do post-exploitation i operacji red team z funkcjami AI - `20%` taniej: `960 €` zamiast `1 200 €`; kod `LIFETIME` zmienia licencję promocyjną na dożywotnią; oferta do 30.11.2026
+* [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) - framework do eksploatacji jądra i C2 z ponad 100 exploitami LPE oraz narzędziami Ring-0 - `20%` taniej: `960 €` zamiast `1 200 €`; kod `LIFETIME` zmienia licencję promocyjną na dożywotnią; oferta do 30.11.2026
+* [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) - kompletny pakiet offensive security łączący Exploit Pack, Control Pack i Kernel Pack ze zintegrowanymi funkcjami AI - pakiet Black Friday za `4 000 €`; bez kodu; oferta do 30.11.2026
   
 # Promocje security 2025
 
