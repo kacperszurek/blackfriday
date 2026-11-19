@@ -23,6 +23,8 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [Hacktricks](https://training.hacktricks.xyz/courses) - kursy na temat bezpieczeństwa chmury - `35%` taniej
 * [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL/TLS - `$50` zamiast `$297` z kodem `BF2026TLS` 
   
+* [Scanify](https://scanify.to/pricing) - skaner linków, plików i adresów IP pod kątem phishingu i malware - Pro za `$1` do 19 grudnia 2026 [autopromocja]
+
 # Promocje security 2025
 
 * [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących` [autopromocja]
