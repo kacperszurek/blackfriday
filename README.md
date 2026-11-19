@@ -22,6 +22,7 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [OffSec learn one](https://www.offsec.com/products/learn-one/) - roczny dostęp do kursów OffSec - `$2199` zamiast `$2749`
 * [Hacktricks](https://training.hacktricks.xyz/courses) - kursy na temat bezpieczeństwa chmury - `35%` taniej
 * [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL/TLS - `$50` zamiast `$297` z kodem `BF2026TLS` 
+* [LabEx](https://labex.io/pricing) - Hands-on Linux, DevOps, cybersecurity and cloud labs - Pro 1 year: `30% off`, `$69.90` with [`2026BF30`](https://labex.io/checkout?type=2&coupon=2026BF30); Pro 2 years: `50% off`, `$99.90` one-time with [`2026BF50`](https://labex.io/checkout?type=4&coupon=2026BF50). New and existing users; ends December 7, 2026.
   
 # Promocje security 2025
 
