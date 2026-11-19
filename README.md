@@ -7,6 +7,7 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 
 # Promocje security 2026
 
+* [ExposureDrift](https://exposuredrift.com) - ciągłe monitorowanie powierzchni ataku (ASM): skanowanie sekretów w JS, inwentaryzacja API i monitoring ekspozycji - oferta dla wczesnych użytkowników (przedpremierowa): `50%` taniej na cały rok + 15 dni testów bez ryzyka _(start 14.12)_
 * [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących - `899 PLN/rok` [autopromocja]
 * [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus za `75.48 PLN`
 * [Klucze Yubikey](https://www.yubico.com/pl/store/2026/black-friday-sale/) - klucze bezpieczeństwa
