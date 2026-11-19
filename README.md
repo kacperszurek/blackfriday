@@ -22,6 +22,7 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [OffSec learn one](https://www.offsec.com/products/learn-one/) - roczny dostęp do kursów OffSec - `$2199` zamiast `$2749`
 * [Hacktricks](https://training.hacktricks.xyz/courses) - kursy na temat bezpieczeństwa chmury - `35%` taniej
 * [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL/TLS - `$50` zamiast `$297` z kodem `BF2026TLS` 
+* [GenAI Security Lab](https://genaisecuritylab.com/pricing) - praktyczne laboratoria z bezpieczeństwa AI (prompt injection, RAG, agenci AI, MCP) - `40%` taniej: roczny dostęp `$136.80` zamiast `$228`, dostęp na 4 miesiące `$59.40` zamiast `$99`, do 30 listopada
   
 # Promocje security 2025
 
