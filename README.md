@@ -22,6 +22,9 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [OffSec learn one](https://www.offsec.com/products/learn-one/) - roczny dostęp do kursów OffSec - `$2199` zamiast `$2749`
 * [Hacktricks](https://training.hacktricks.xyz/courses) - kursy na temat bezpieczeństwa chmury - `35%` taniej
 * [Practical TLS](https://classes.pracnet.net/courses/practical-tls) - kurs na temat SSL/TLS - `$50` zamiast `$297` z kodem `BF2026TLS` 
+* [Sekurak](https://blackweek.sekurak.pl/) - różne kursy i szkolenia - promocje od `20%` do `80%`
+* [SEKTOR7](https://www.sektor7.institute/consumer) - kursy Red Team `40%` taniej
+* [Wireshark Labs](https://wiresharklabs.org/) - kursy z obsługi programu Wireshark - z kodem `PACKETFRIDAY` `$100` taniej
   
 # Promocje security 2025
 
