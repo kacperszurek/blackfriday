@@ -30,6 +30,7 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [Grupa ADM](https://grupadm.pl/bf/) - szkolenia dla administratorów - różne promocje
 * [Videopoint](https://videopoint.pl/promocja/24963) - kursy video - z kodem `BLACK` każdy kurs `38,90 PLN`
 * [No Starch Press](https://nostarch.com/) - książki na temat IT - `40%` taniej od 24 listopada
+* [HackingHub](https://app.hackinghub.io/hubs) - różne kursy o poszukiwaniu błędów - `60%` taniej
   
 # Promocje security 2025
 
