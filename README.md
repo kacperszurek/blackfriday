@@ -15,7 +15,7 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [1Password](https://start.1password.com/sign-up?c=CYBER25) - menadżer haseł - pierwszy rok `50%` taniej
 * [iximiuz Labs](https://labs.iximiuz.com/premium) - platforma do interaktywnej nauki o kontenerach - plan premium `65%` taniej
 * [OVH](https://www.ovhcloud.com/pl/black-friday/) - serwery VPS/dedykowane - różne promocje
-* [Mikrus](https://mikr.us/) - serwery VPS do nauki
+* [Mikrus](https://mikr.us/bf2026/) - serwery VPS do nauki - plany 3 letnie `+1 rok gratis`, plany 2 letnie `+2msc gratis`.
 * [Autenti eSign](https://autenti.com/pl/black-weeks-2026) - elektroniczny obieg dokumentów - pierwszy rok dla nowych klientów `40%` taniej
 * [doPodpisu](https://dopodpisu.pl/kwalifikowany-podpis-jednorazowy/) - podpisy kwalifikowane - pakiet 100 podpisów `100 PLN` zamiast `260 PLN`
 * [Hetzner Storage Box](https://www.hetzner.com/storage/storage-box/) - miejsce na backup plików - 5TB `13.41 €/miesiąc`
