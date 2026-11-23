@@ -27,6 +27,9 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [SEKTOR7](https://www.sektor7.institute/consumer) - kursy Red Team `40%` taniej
 * [Wireshark Labs](https://wiresharklabs.org/) - kursy z obsługi programu Wireshark - z kodem `PACKETFRIDAY` `$100` taniej
 * [Try Hack Me](https://tryhackme.com/pricing) - platforma do nauki cyberbezpieczeństwa - `40%` taniej
+* [Grupa ADM](https://grupadm.pl/bf/) - szkolenia dla administratorów - różne promocje
+* [Videopoint](https://videopoint.pl/promocja/24963) - kursy video - z kodem `BLACK` każdy kurs `38,90 PLN`
+* [No Starch Press](https://nostarch.com/) - książki na temat IT - `40%` taniej od 24 listopada
   
 # Promocje security 2025
 
