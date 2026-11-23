@@ -9,7 +9,8 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 
 * [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących - `899 PLN/rok` [autopromocja]
 * [Proton Mail](https://proton.me/mail/black-friday) - szyfrowana poczta - roczny plan Mail Plus za `75.48 PLN`
-* [Klucze Yubikey](https://www.yubico.com/pl/store/2026/black-friday-sale/) - klucze bezpieczeństwa
+* [Klucze Yubikey](https://www.yubico.com/pl/store/2026/black-friday-sale/) - klucze bezpieczeństwa - różne promocje
+* [YubiKey 5 NFC](https://www.ceneo.pl/143807049) - zestaw dwóch sztuk za `359 PLN`
 * [Oh My Hack 2026](https://eventory.cc/event/oh-my-hack-2026/tickets)- konferencja o bezpieczeństwie - z kodem `Kacper10S` bilety `10%` taniej _(nie dotyczy biletów studenckich i KB)_
 * [TCM Security](https://tcm-sec.com/black-friday-deals/) - rożne kursy - roczny dostęp `$149.99` zamiast `$299.98`
 * [1Password](https://start.1password.com/sign-up?c=CYBER25) - menadżer haseł - pierwszy rok `50%` taniej
@@ -25,6 +26,7 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [Sekurak](https://blackweek.sekurak.pl/) - różne kursy i szkolenia - promocje od `20%` do `80%`
 * [SEKTOR7](https://www.sektor7.institute/consumer) - kursy Red Team `40%` taniej
 * [Wireshark Labs](https://wiresharklabs.org/) - kursy z obsługi programu Wireshark - z kodem `PACKETFRIDAY` `$100` taniej
+* [Try Hack Me](https://tryhackme.com/pricing) - platforma do nauki cyberbezpieczeństwa - `40%` taniej
   
 # Promocje security 2025
 
