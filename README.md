@@ -29,8 +29,14 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [Try Hack Me](https://tryhackme.com/pricing) - platforma do nauki cyberbezpieczeństwa - `40%` taniej
 * [Grupa ADM](https://grupadm.pl/bf/) - szkolenia dla administratorów - różne promocje
 * [Videopoint](https://videopoint.pl/promocja/24963) - kursy video - z kodem `BLACK` każdy kurs `38,90 PLN`
-* [No Starch Press](https://nostarch.com/) - książki na temat IT - `40%` taniej od 24 listopada
+* [No Starch Press](https://nostarch.com/) - książki na temat IT - `40%` taniej
 * [HackingHub](https://app.hackinghub.io/hubs) - różne kursy o poszukiwaniu błędów - `60%` taniej
+* [Mastering Binary Files](https://hackarcana.com/workshop-session/2026-mbf/join) - kurs o analizie plików binarnych - z kodem `MBF-BLACK-FRIDAY` `15%` taniej
+* [Kindle](https://www.amazon.pl/dp/B0G4SHPH5K) - czytnik ebooków - `20%` taniej
+* [PentesterLab](https://pentesterlab.com/pro) - platforma do nauki cyberbezpieczeństwa - roczny pakiet pro `27%` taniej
+* [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY2026) - kurs na temat narzędzia do phishingu - `75%` taniej
+* [Pluralsight](https://www.pluralsight.com/individuals/pricing) - różne kursy IT - roczny plan `60%` taniej
+* [Sapsan](https://sapsan-sklep.pl/collections/black-week) - sklep z narzędziami do red teamingu - różne promocje
   
 # Promocje security 2025
 
