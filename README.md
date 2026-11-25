@@ -31,6 +31,7 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [Videopoint](https://videopoint.pl/promocja/24963) - kursy video - z kodem `BLACK` każdy kurs `38,90 PLN`
 * [No Starch Press](https://nostarch.com/) - książki na temat IT - `40%` taniej od 24 listopada
 * [HackingHub](https://app.hackinghub.io/hubs) - różne kursy o poszukiwaniu błędów - `60%` taniej
+* [AppSecEngineer](https://www.appsecengineer.com/individuals/pricing) - praktyczne laby z bezpieczeństwa AI (agenci AI, aplikacje LLM), AppSec, chmury i modelowania zagrożeń - z kodem `LEVELUP40` plany Pro Plus (roczne) i Bootcampy `40%` taniej
   
 # Promocje security 2025
 
