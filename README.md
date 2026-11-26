@@ -37,6 +37,7 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY2026) - kurs na temat narzędzia do phishingu - `75%` taniej
 * [Pluralsight](https://www.pluralsight.com/individuals/pricing) - różne kursy IT - roczny plan `60%` taniej
 * [Sapsan](https://sapsan-sklep.pl/collections/black-week) - sklep z narzędziami do red teamingu - różne promocje
+* [VibeShield / OmniForge](https://vibe-checker.appwrite.network/) - skaner bezpieczeństwa aplikacji webowych i AI (116 testów: wycieki kluczy w JS, nagłówki CSP/HSTS, 28 wrażliwych ścieżek, Supabase RLS; darmowy skan bez rejestracji) - jednorazowe odblokowanie poprawek `$2` zamiast `$9` (`78%` taniej) lub pakiet 3 narzędzi z audytem SPF/DKIM/DMARC za `$5` zamiast `$29` [autopromocja]
   
 # Promocje security 2025
 
