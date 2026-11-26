@@ -38,6 +38,8 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [Pluralsight](https://www.pluralsight.com/individuals/pricing) - różne kursy IT - roczny plan `60%` taniej
 * [Sapsan](https://sapsan-sklep.pl/collections/black-week) - sklep z narzędziami do red teamingu - różne promocje
   
+* [Scanify](https://scanify.to/pricing) - skaner linków, plików i adresów IP pod kątem phishingu i malware - Pro za `$1` do 19 grudnia 2026 [autopromocja]
+
 # Promocje security 2025
 
 * [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących` [autopromocja]
