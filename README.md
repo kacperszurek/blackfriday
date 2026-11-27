@@ -37,6 +37,7 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY2026) - kurs na temat narzędzia do phishingu - `75%` taniej
 * [Pluralsight](https://www.pluralsight.com/individuals/pricing) - różne kursy IT - roczny plan `60%` taniej
 * [Sapsan](https://sapsan-sklep.pl/collections/black-week) - sklep z narzędziami do red teamingu - różne promocje
+* [OSINTverse](https://osintverse.com/pricing) - platforma OSINT: wyszukiwanie po e-mailu, nicku, numerze telefonu, domenie, nazwisku, IP, zdjęciu lub portfelu krypto w 17 źródłach naraz, sprawy, graf dla zespołu, API i serwer MCP - doładowanie konta `10%` taniej z kodem `BLACKFRIDAY10` _(do 30.11, 23:59 UTC; na konto trafia pełna kwota)_
   
 # Promocje security 2025
 
