@@ -37,7 +37,10 @@ Autorem jest [Kacper Szurek](https://youtube.com/c/kacperszurek)
 * [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY2026) - kurs na temat narzędzia do phishingu - `75%` taniej
 * [Pluralsight](https://www.pluralsight.com/individuals/pricing) - różne kursy IT - roczny plan `60%` taniej
 * [Sapsan](https://sapsan-sklep.pl/collections/black-week) - sklep z narzędziami do red teamingu - różne promocje
-  
+* [Things](https://culturedcode.com/things/sale/) - aplikacja todo na urządzenia Apple - `30%` taniej
+* [Browserling](https://www.browserling.com/web-testing/pricing) - przeglądarka w chmurze - `50%` taniej
+* [Standard Notes](https://standardnotes.com/plans) - szyfrowane notatki w chmurze - `50%` taniej
+
 # Promocje security 2025
 
 * [Od 0 do Pentestera: Podstawy](https://sklep.szurek.tv/od-0-do-pentestera-podstawy) - Kurs testowania bezpieczeństwa aplikacji webowych dla początkujących` [autopromocja]
